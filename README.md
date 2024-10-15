@@ -1,7 +1,6 @@
 ## React Toolkit Basics
 This project includes counter app and add task. You can add a task, organise a task and delete a task.
 
-
 ## Technologies Used
 
 - **React**: Frontend library for building UI components.
@@ -13,6 +12,6 @@ This project includes counter app and add task. You can add a task, organise a t
 
 - **React Toolkit**: Basic state management.
 
--**Bootstrap**: For styling  and responsive design
+- **Bootstrap**: For styling  and responsive design
 
-![GIF](toolkit.gif)# redux_toolkit_example
+![GIF](toolkit.gif)
